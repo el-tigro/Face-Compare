@@ -2,6 +2,8 @@
 
 ## About
 
+Fraud Detection: Compare Customer Selfie and Passport Photo.  
+
 When applying for a loan, the client is required to upload the following photos:  
 - photo: A selfie with the passport held in hand.  
 - passport: A photo of the passport's main page.  
